@@ -1,0 +1,12 @@
+[submodule "serverless-crud"]
+	path = serverless-crud
+	url = git@github.com-thallesp:ThallesP/serverless-crud.git
+[submodule "serverless-minecraft-status"]
+	path = serverless-minecraft-status
+	url = git@github.com-thallesp:ThallesP/serverless-minecraft-status.git
+[submodule "serverless-ignite-todos"]
+	path = serverless-ignite-todos
+	url = git@github.com-thallesp:ThallesP/serverless-ignite-todos.git
+[submodule "serverless-ignite-certificate"]
+	path = serverless-ignite-certificate
+	url = git@github.com-thallesp:ThallesP/serverless-ignite-certificate.git
